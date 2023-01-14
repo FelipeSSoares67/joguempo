@@ -34,3 +34,4 @@ elif player == 'PAPEL':
     elif maquina == 'TESOURA':
         print('   Maquina Venceu!')
 print('-'*20)
+# seja carainhoso com o codigo
